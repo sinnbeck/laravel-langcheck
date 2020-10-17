@@ -4,7 +4,7 @@ Laravel LangCheck is created to help developers find missing translations in the
 
 ## Installation
 ```sh
-$ composer require sinnbeck/laravel-langcheck
+$ composer require sinnbeck/laravel-langcheck --dev
 ```
 
 ## Configuration
