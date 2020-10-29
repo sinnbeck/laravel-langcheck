@@ -32,7 +32,5 @@ Same as missing except it shows locales with extra translations that are most li
 
 
 ## Todo
-This package is still in alpha stage and there are several things I plan on adding.
-* Implement option to specify base locale
-* Implement option to limit checked locales
-* Create/remove translations automatically?
+
+- [ ] Create/remove translations automatically?
